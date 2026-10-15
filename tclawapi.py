@@ -26,7 +26,7 @@ from helpers import retrieve_url
 from novaprinter import prettyPrinter
 
 
-API_KEY: str = tc_7e8e171bc0692646f918f3117ce3b0c62c98dbff1b3db151
+API_KEY: tc_7e8e171bc0692646f918f3117ce3b0c62c98dbff1b3db151
 HTTP_TIMEOUT_SECONDS: int = 15
 
 # Public open trackers (subset of the list TorrentClaw uses server-side).
